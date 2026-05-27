@@ -438,7 +438,6 @@ background: '#1A1A2E'
       <li>🎲 Un cube 3D qui flotte et tourne en temps réel</li>
       <li>💻 Codé en JavaScript pur avec Three.js</li>
       <li>🌐 Rendu directement dans le navigateur — aucun plugin</li>
-      <li>📏 Environ <strong class="text-white">20 lignes de code</strong></li>
     </ul>
 
 ```js
