@@ -1,0 +1,21 @@
+{
+  "name": "javascript",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.15.2",
+    "@slidev/theme-default": "^0.25.0",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.5.33"
+  },
+  "version": "1.0.0",
+  "description": "To start the slide show:",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
