@@ -18,9 +18,9 @@ fonts:
     <p class="text-yellow-400 text-2xl italic mt-2">Histoire, Usages & Frameworks</p>
     <div class="mt-6 h-px w-80 bg-gray-500"></div>
     <div class="mt-4 flex gap-6 text-sm text-gray-400">
-      <span>👤 [Prénom 1] — Histoire</span>
-      <span>👤 [Prénom 2] — Usages</span>
-      <span>👤 [Prénom 3] — Frameworks</span>
+      <span>👤 [Dawid] — Histoire</span>
+      <span>👤 [Ndoumbe] — Usages</span>
+      <span>👤 [Jérôme] — Frameworks</span>
     </div>
   </div>
 </div>
@@ -37,19 +37,19 @@ background: '#1A1A2E'
     <div class="text-5xl font-black">01</div>
     <div class="font-bold text-lg mt-3">Histoire & Création</div>
     <div class="text-sm mt-2 opacity-70">Origines, Brendan Eich, ECMAScript, évolution</div>
-    <div class="text-xs mt-3 font-bold">[Prénom 1]</div>
+    <div class="text-xs mt-3 font-bold">[Dawid]</div>
   </div>
   <div class="bg-blue-900 rounded p-6">
     <div class="text-5xl font-black text-yellow-400">02</div>
     <div class="font-bold text-lg mt-3 text-white">Utilisations Aujourd'hui</div>
     <div class="text-sm mt-2 text-gray-400">Front-end, Back-end, Mobile, IoT</div>
-    <div class="text-xs mt-3 font-bold text-yellow-400">[Prénom 2]</div>
+    <div class="text-xs mt-3 font-bold text-yellow-400">[Ndoumbe]</div>
   </div>
   <div class="bg-blue-900 rounded p-6">
     <div class="text-5xl font-black text-yellow-400">03</div>
     <div class="font-bold text-lg mt-3 text-white">Frameworks & Three.js</div>
     <div class="text-sm mt-2 text-gray-400">React, Vue, Angular, démo live</div>
-    <div class="text-xs mt-3 font-bold text-yellow-400">[Prénom 3]</div>
+    <div class="text-xs mt-3 font-bold text-yellow-400">[Jérôme]</div>
   </div>
 </div>
 
@@ -59,7 +59,7 @@ background: '#1A1A2E'
 ---
 
 <div class="flex items-center gap-3 mb-1">
-  <span class="bg-yellow-400 text-gray-900 font-bold px-3 py-1 rounded text-xs">PARTIE 1 · [Prénom 1]</span>
+  <span class="bg-yellow-400 text-gray-900 font-bold px-3 py-1 rounded text-xs">PARTIE 1 · [Dawid]</span>
   <span class="text-gray-500 text-sm">Histoire & Création</span>
 </div>
 
@@ -102,7 +102,7 @@ background: '#1A1A2E'
 ---
 
 <div class="flex items-center gap-3 mb-1">
-  <span class="bg-yellow-400 text-gray-900 font-bold px-3 py-1 rounded text-xs">PARTIE 1 · [Prénom 1]</span>
+  <span class="bg-yellow-400 text-gray-900 font-bold px-3 py-1 rounded text-xs">PARTIE 1 · [Dawid]</span>
   <span class="text-gray-500 text-sm">Histoire & Création</span>
 </div>
 
@@ -145,7 +145,7 @@ background: '#1A1A2E'
 ---
 
 <div class="flex items-center gap-3 mb-1">
-  <span class="bg-yellow-400 text-gray-900 font-bold px-3 py-1 rounded text-xs">PARTIE 1 · [Prénom 1]</span>
+  <span class="bg-yellow-400 text-gray-900 font-bold px-3 py-1 rounded text-xs">PARTIE 1 · [Dawid]</span>
   <span class="text-gray-500 text-sm">Histoire & Création</span>
 </div>
 
@@ -184,7 +184,7 @@ background: '#1A1A2E'
 ---
 
 <div class="flex items-center gap-3 mb-1">
-  <span class="bg-blue-500 text-white font-bold px-3 py-1 rounded text-xs">PARTIE 2 · [Prénom 2]</span>
+  <span class="bg-blue-500 text-white font-bold px-3 py-1 rounded text-xs">PARTIE 2 · [Ndoumbe]</span>
   <span class="text-gray-500 text-sm">Utilisations Aujourd'hui</span>
 </div>
 
@@ -234,7 +234,7 @@ background: '#1A1A2E'
 ---
 
 <div class="flex items-center gap-3 mb-1">
-  <span class="bg-blue-500 text-white font-bold px-3 py-1 rounded text-xs">PARTIE 2 · [Prénom 2]</span>
+  <span class="bg-blue-500 text-white font-bold px-3 py-1 rounded text-xs">PARTIE 2 · [Ndoumbe]</span>
   <span class="text-gray-500 text-sm">Utilisations Aujourd'hui</span>
 </div>
 
@@ -279,7 +279,7 @@ background: '#1A1A2E'
 ---
 
 <div class="flex items-center gap-3 mb-1">
-  <span class="bg-blue-500 text-white font-bold px-3 py-1 rounded text-xs">PARTIE 2 · [Prénom 2]</span>
+  <span class="bg-blue-500 text-white font-bold px-3 py-1 rounded text-xs">PARTIE 2 · [Ndoumbe]</span>
   <span class="text-gray-500 text-sm">Utilisations Aujourd'hui</span>
 </div>
 
@@ -323,7 +323,7 @@ background: '#1A1A2E'
 ---
 
 <div class="flex items-center gap-3 mb-1">
-  <span class="bg-green-500 text-white font-bold px-3 py-1 rounded text-xs">PARTIE 3 · [Prénom 3]</span>
+  <span class="bg-green-500 text-white font-bold px-3 py-1 rounded text-xs">PARTIE 3 · [Jérôme]</span>
   <span class="text-gray-500 text-sm">Frameworks & Three.js</span>
 </div>
 
@@ -369,7 +369,7 @@ background: '#1A1A2E'
 ---
 
 <div class="flex items-center gap-3 mb-1">
-  <span class="bg-green-500 text-white font-bold px-3 py-1 rounded text-xs">PARTIE 3 · [Prénom 3]</span>
+  <span class="bg-green-500 text-white font-bold px-3 py-1 rounded text-xs">PARTIE 3 · [Jérôme]</span>
   <span class="text-gray-500 text-sm">Frameworks & Three.js</span>
 </div>
 
@@ -425,7 +425,7 @@ background: '#1A1A2E'
 ---
 
 <div class="flex items-center gap-3 mb-1">
-  <span class="bg-green-500 text-white font-bold px-3 py-1 rounded text-xs">PARTIE 3 · [Prénom 3]</span>
+  <span class="bg-green-500 text-white font-bold px-3 py-1 rounded text-xs">PARTIE 3 · [Jérôme]</span>
   <span class="text-gray-500 text-sm">Démo Live</span>
 </div>
 
@@ -457,11 +457,11 @@ function animate() {
 animate();
 ```
   </div>
-  <div class="bg-blue-900 rounded p-6 flex flex-col items-center justify-center gap-4">
-    <div class="text-7xl">🎲</div>
-    <p class="text-yellow-400 font-bold text-xl">Démonstration</p>
-    <p class="text-gray-400 text-sm text-center">Ouverture du fichier<br/>dans le navigateur</p>
-  </div>
+ <div class="bg-blue-900 rounded" style="height: 300px;">
+   <ClientOnly>
+     <ThreeCube />
+   </ClientOnly>
+</div>
 </div>
 
 ---
@@ -478,15 +478,15 @@ background: '#1A1A2E'
   <div class="h-px w-60 bg-gray-600 mt-2"></div>
   <div class="flex gap-10 text-sm text-gray-400 mt-2">
     <div class="text-center">
-      <div class="text-white font-bold">[Prénom 1]</div>
+      <div class="text-white font-bold">[Dawid]</div>
       <div class="text-xs">Histoire & Création</div>
     </div>
     <div class="text-center">
-      <div class="text-white font-bold">[Prénom 2]</div>
+      <div class="text-white font-bold">[Ndoumbe]</div>
       <div class="text-xs">Utilisations</div>
     </div>
     <div class="text-center">
-      <div class="text-white font-bold">[Prénom 3]</div>
+      <div class="text-white font-bold">[Jérôme]</div>
       <div class="text-xs">Frameworks & Three.js</div>
     </div>
   </div>
